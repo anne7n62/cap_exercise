@@ -1,8 +1,11 @@
-/* .g_to_interact_with {
-  fill: none;
+.g_to_interact_with {
+  fill: transparent;
 }
-*/
 
 #Layer_3_Image {
   pointer-events: none;
+}
+
+path {
+  stroke-width: 2;
 }
